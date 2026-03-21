@@ -47,7 +47,7 @@ As tecnologias que estudo e utilizo para construir APIs robustas:
 ## 📊 Meu Desempenho (Code Activity)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-Fagundes888&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-Fagundes888&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Fagundes888&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
