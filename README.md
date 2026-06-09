@@ -2,34 +2,35 @@
 
 # Diego Fagundes
 
-**Engenharia de Software · Backend Developer · Java & Spring**
+### Desenvolvedor Backend em formação | Java e Spring
 
-Estudante em Brasília focado em construir APIs robustas, seguras e escaláveis.  
-Apaixonado por Clean Code, boas práticas e software que aguenta o mundo real.
+Estudante de Engenharia de Software em Brasília, com foco em APIs bem estruturadas, seguras e fáceis de manter.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofagundes-back/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.fagundes003g@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=Diego-Fagundes888&color=0e75b6&style=for-the-badge&label=VISITAS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Fagundes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofagundes-back/)
+[![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diego.fagundes003g@gmail.com)
+![Disponível para estágio](https://img.shields.io/badge/Status-Dispon%C3%ADvel_para_est%C3%A1gio-2EA44F?style=flat-square)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=Diego-Fagundes888&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0E75B6&style=flat-square)
 
 </div>
 
 ---
 
-## 🎯 Sobre mim
+## Sobre mim
 
-Sou estudante de **Engenharia de Software** com foco em me tornar um desenvolvedor Backend especialista no ecossistema Java. Meu objetivo é conquistar minha primeira oportunidade como **Estagiário**, trazendo uma base sólida em arquitetura, boas práticas e vontade de resolver problemas reais.
+Curso Engenharia de Software e concentro meus estudos no ecossistema Java. Gosto de entender os fundamentos antes do framework: POO, SOLID, modelagem de dados e testes.
 
-- 📚 Dominando o ecossistema **Spring** (Boot, Data JPA, Security)
-- 🧪 Aprendendo **testes unitários** com JUnit e Mockito
-- 💡 Fundamentos primeiro: POO e SOLID antes de qualquer framework
-- 📍 Brasília / Novo Gama — GO
-- 🎯 Buscando primeira oportunidade como **Estagiário Backend**
+Busco minha primeira oportunidade de estágio em backend para trabalhar em produtos reais e evoluir com um time experiente.
+
+- Estudando Spring Boot, Spring Data JPA e Spring Security
+- Praticando testes unitários com JUnit 5 e Mockito
+- Localização: Brasília / Novo Gama, GO
+- Objetivo atual: estágio em desenvolvimento backend
 
 ---
 
-## 🛠️ Stack
+## Tecnologias
 
-**Linguagens & Frameworks**
+**Backend**
 <br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -55,19 +56,19 @@ Sou estudante de **Engenharia de Software** com foco em me tornar um desenvolved
 
 ---
 
-## 📊 Atividade
+## GitHub em números
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-Fagundes888&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Fagundes888&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diego-Fagundes888&theme=github_dark" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diego-Fagundes888&theme=github_dark" alt="Linguagens mais usadas"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego-Fagundes888&theme=vision-friendly-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Diego-Fagundes888&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Aberto para oportunidades de estágio e colaborações em projetos open source.</sub>
+  <sub>Aberto a oportunidades de estágio e colaborações em projetos open source.</sub>
 </div>
