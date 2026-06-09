@@ -8,7 +8,7 @@ Estudante de Engenharia de Software em Brasília, com foco em APIs bem estrutura
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Fagundes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofagundes-back/)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diego.fagundes003g@gmail.com)
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=Diego-Fagundes888&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0E75B6&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-Diego--Fagundes888-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Diego-Fagundes888)
 
 </div>
 
