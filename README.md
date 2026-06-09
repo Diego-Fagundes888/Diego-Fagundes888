@@ -8,7 +8,6 @@ Estudante de Engenharia de Software em Brasília, com foco em APIs bem estrutura
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Fagundes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofagundes-back/)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diego.fagundes003g@gmail.com)
-![Disponível para estágio](https://img.shields.io/badge/Status-Dispon%C3%ADvel_para_est%C3%A1gio-2EA44F?style=flat-square)
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=Diego-Fagundes888&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0E75B6&style=flat-square)
 
 </div>
@@ -59,8 +58,7 @@ Busco minha primeira oportunidade de estágio em backend para trabalhar em produ
 ## GitHub em números
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diego-Fagundes888&theme=github_dark" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diego-Fagundes888&theme=github_dark" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diego-Fagundes888&theme=github-compact&hide_border=true&area=true" alt="Gráfico de contribuições"/>
 </div>
 
 <div align="center">
