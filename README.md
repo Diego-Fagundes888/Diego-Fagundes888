@@ -47,6 +47,14 @@ Busco uma primeira oportunidade de estágio ou entrada em TI na qual eu possa ap
 
 ---
 
+## Projetos em destaque
+
+- [Mini Banco em C++](https://github.com/Diego-Fagundes888/mini-banco-cpp) — projeto de console para praticar lógica, funções e organização de código
+- [Lista de exercícios da faculdade](https://github.com/Diego-Fagundes888/lista-exercicios-faculdade) — soluções e atividades desenvolvidas durante a graduação
+- [Abyssal Oceans](https://github.com/Diego-Fagundes888/Abyssal-Oceans) — projeto autoral para aplicar desenvolvimento web na prática
+
+---
+
 ## Próximos passos de estudo
 
 - Aprofundar a prática em Java por meio de projetos autorais
