@@ -9,6 +9,11 @@ Estudante do 2º semestre de Engenharia de Software na UNICEPLAC, buscando a pri
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Fagundes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofagundes-back/)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diego.fagundes003g@gmail.com)
 
+![Java](https://img.shields.io/badge/Java-em_formação-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-e_dados-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-versionamento-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-fundamentos-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 </div>
 
 ---
