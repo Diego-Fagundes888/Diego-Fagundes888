@@ -2,13 +2,12 @@
 
 # Diego Fagundes
 
-### Desenvolvedor Backend em formação | Java e Spring
+### Estudante de Engenharia de Software | Java e Análise de Dados em formação
 
-Estudante de Engenharia de Software em Brasília, com foco em APIs bem estruturadas, seguras e fáceis de manter.
+Estudante do 2º semestre de Engenharia de Software na UNICEPLAC, buscando a primeira oportunidade em tecnologia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Fagundes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofagundes-back/)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diego.fagundes003g@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Diego--Fagundes888-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Diego-Fagundes888)
 
 </div>
 
@@ -16,62 +15,47 @@ Estudante de Engenharia de Software em Brasília, com foco em APIs bem estrutura
 
 ## Sobre mim
 
-Curso Engenharia de Software e concentro meus estudos no ecossistema Java. Gosto de entender os fundamentos antes do framework: POO, SOLID, modelagem de dados e testes.
+Estou construindo uma base sólida em desenvolvimento de software, com preferência por Java e interesse crescente em análise de dados com Python.
 
-Busco minha primeira oportunidade de estágio em backend para trabalhar em produtos reais e evoluir com um time experiente.
+Busco uma primeira oportunidade de estágio ou entrada em TI na qual eu possa aprender com uma equipe, contribuir com dedicação e evoluir por meio de desafios reais.
 
-- Estudando Spring Boot, Spring Data JPA e Spring Security
-- Praticando testes unitários com JUnit 5 e Mockito
-- Localização: Brasília / Novo Gama, GO
-- Objetivo atual: estágio em desenvolvimento backend
+- Formação: Engenharia de Software - UNICEPLAC
+- Semestre atual: 2º
+- Previsão de conclusão: 2030
+- Localização: Região do Gama/DF e Entorno
+- Disponibilidade: período diurno
+- Interesses principais: desenvolvimento Java e análise de dados
+- Inglês: básico
 
 ---
 
-## Tecnologias
+## Conhecimentos em desenvolvimento
 
-**Backend**
-<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+**Java**
+- Fundamentos da linguagem, orientação a objetos, coleções, tratamento de exceções e leitura de arquivos
 
-**Dados & Automação**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Banco de Dados**
-<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Testes & Qualidade**
-<br>
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
+**Python e dados**
+- Lógica de programação, funções e estruturas de dados
+- Estudos com Pandas, NumPy, Jupyter, visualização e tratamento de dados
 
 **Ferramentas**
-<br>
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- Git e GitHub para versionamento de estudos
+- Docker: execução de containers, criação de Dockerfile e uso de Docker Compose
+
+**Conhecimentos básicos**
+- HTML, CSS, JavaScript e Excel
 
 ---
 
-## GitHub em números
+## Próximos passos de estudo
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diego-Fagundes888&theme=github-compact&hide_border=true&area=true" alt="Gráfico de contribuições"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Diego-Fagundes888&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
-</div>
+- Aprofundar a prática em Java por meio de projetos autorais
+- Consolidar análise e tratamento de dados com Python
+- Aprender PostgreSQL, Spring Boot e consumo de APIs
+- Evoluir no uso de Git com merge e resolução de conflitos
 
 ---
 
 <div align="center">
-  <sub>Aberto a oportunidades de estágio e colaborações em projetos open source.</sub>
+  <sub>Aberto a oportunidades de estágio e posições de entrada em tecnologia.</sub>
 </div>
